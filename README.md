@@ -40,6 +40,8 @@ LEBPS에는 유튜브를 통해서 음악을 실행 할 수 있는 기능을 지
 ## 2) 가사, 번역
 
 메인화면의 리스트에서 원하는 음악을 클릭하면 해당 음악에 대한 정보를 보여주는 액티비티로 이동하여 검색한 음악의 원문가사와 **Google Translation API**를 이용해 번역된 가사를 제공합니다. (ex. Maroon5 - Best 4 U)
+
+
 ![image](https://user-images.githubusercontent.com/30094719/104308026-5c86a680-5513-11eb-9fa1-07b2c87c93dd.png)![image](https://user-images.githubusercontent.com/30094719/104308055-66a8a500-5513-11eb-871f-5f7ed8d31b91.png)![image](https://user-images.githubusercontent.com/30094719/104308084-71fbd080-5513-11eb-9b7c-b9d1c0668431.png)
 
 ## 3) 단어장, 문법분석 
