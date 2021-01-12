@@ -22,10 +22,7 @@ LEBPS에는 유튜브를 통해서 음악을 실행 할 수 있는 기능을 지
 ## 1) 음악검색
 
 **메인화면**에서 제목과 아티스트의 정보를 입력해서 음악을 가져올 수 있습니다.
-
-![Screenshot_20191024-130529_LEBPS](https://user-images.githubusercontent.com/30094719/104302935-c3ed2800-550c-11eb-9a93-70688ffd6133.jpg){: width="30%" }
-
-![Screenshot_20191024-130635_LEBPS](https://user-images.githubusercontent.com/30094719/104302998-d6fff800-550c-11eb-8b7b-901aaa8a6f7b.jpg){: width="30%" }
+![enter image description here](https://lh3.googleusercontent.com/plfvby97AagmRNOC4tmDVHQU9QcgIn_jDSkMMheTOkt_mHIk81yBfcBfa1JepoeVY3_qq1zZcazI)![enter image description here](https://lh3.googleusercontent.com/93duheQzk_eb7hDgL0-66VJveMWOWE13BfudqWOhtNT0HdT5eiCAg9n6jev3Fs66p1woBsZdPCTV)![enter image description here](https://lh3.googleusercontent.com/5qE-hPsxyeUiAEdQ8k-cHFfxOi-IdGUqIZk9iPeUNw24a0NBB5TahU2r0Worpfy34TfnznO5fdPb)   
 
 **부가기능**
 
